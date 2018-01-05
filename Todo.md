@@ -19,3 +19,8 @@
 * (Bonus) Convert the [big primes excercise](https://www.stolaf.edu/people/rab/pdc/lab/mpi_primes.html) into our web platform 
 * (Bonus) Write one simple CUDA excercise 
 * (Bonus) Write a deployment guide for self-hosting. 
+
+## Long Term Goals
+
+* The project is in a good enough shape to be used to teach the Parallel & Distributed Computing class at St. Olaf in Fall 2018.
+* Other schools/instructors adopt it.
