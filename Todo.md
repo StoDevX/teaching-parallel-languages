@@ -1,3 +1,4 @@
+Parallel programming is ubiquitous in modern computing (smartphones, GPU's, multi-core CPU's and supercomputers). Teaching it effectively can be difficult because (1) it's inherently trickier to reason about than sequential code and (2) results can vary depending on the hardware it's run on. This project aims to solve (2). 
 # To Do 
 
 ## Short Term Tasks
@@ -8,19 +9,21 @@
   * What command to run? What port to access it at? What to try 
   
 * Develop the trapezoid problem in C++, run it in the notebook 
-* Allow anyone on campus/in a list of students to log in and do the excercise 
+* Allow anyone on campus/in a list of students to log in and do the exercise 
 
 ## Goals for January
 
-* Write the computing trapezoid in parallel excercise in C++, Rust & Chapel 
+* Write the computing trapezoid in parallel exercise in C++, Rust & Chapel 
   * It should first run with a race condition problem, and then students are asked to fix it 
   * Students should be able to verify it runs faster than the sequential version 
   * Should work completely in the web with no prerequisites 
 * (Bonus) Convert the [big primes excercise](https://www.stolaf.edu/people/rab/pdc/lab/mpi_primes.html) into our web platform 
-* (Bonus) Write one simple CUDA excercise 
+* (Bonus) Write one simple CUDA exercise 
 * (Bonus) Write a deployment guide for self-hosting. 
 
 ## Long Term Goals
 
 * The project is in a good enough shape to be used to teach the Parallel & Distributed Computing class at St. Olaf in Fall 2018.
 * Other schools/instructors adopt it.
+
+ 
