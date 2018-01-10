@@ -4,9 +4,9 @@ Parallel programming is ubiquitous in modern computing (smartphones, GPU's, mult
 ## Short Term Tasks
   
 * Write the first notebook introducing parallelism in Rust and Python.
- * Introduce parallelism a basic loop to print numbers
- * Introduce solving the trapezoid 
- * Ask them to fix the race conditions 
+  * Introduce parallelism a basic loop to print numbers
+  * Introduce solving the trapezoid 
+  * Ask them to fix the race conditions 
 * Install and test JupyterHub so that Chris, Rab and I can log in and work on our own notebooks and not be able to access each others. 
 * Write a page (either in the repo or on the [wiki](https://github.com/StoDevX/teaching-parallel-languages/wiki) to explain how to run our Jupyter server & kernel 
   * Which server is it running on? Thing4?
