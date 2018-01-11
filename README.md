@@ -14,4 +14,9 @@ You can use our own hosted version or set it up yourself on your own server. We 
 
 The project is currently still in the prototyping phase. 
 
+## Installation - 1/10/2018
+
+On Ubuntu, you can run the `install-prereqs.sh` script.  
+Then you should be able to run the command `jupyterhub` to run the a server with the default configuration
+
 [Todo List](Todo.md)
